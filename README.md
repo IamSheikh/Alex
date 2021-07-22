@@ -1,2 +1,2 @@
 # Alex
-A ai
+Alex is a Ai.
